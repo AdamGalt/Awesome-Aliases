@@ -6,7 +6,7 @@ alias plz="sudo !!"  # runs the last command as sudo
 
 alias vi="nano"  # Don't get along with vi, this is for you
 
-alias upgrade='sudo apt update && sudo apt upgrade -y && apt-get autoremove -y && apt-get autoclean'  # upgrade with less typing
+alias upgrade='sudo apt update && sudo apt upgrade -y && apt-get autoremove -y && apt-get autoclean'
 
 alias df='df -h'  # human readable output should be default
 
