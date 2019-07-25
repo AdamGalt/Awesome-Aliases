@@ -4,8 +4,6 @@ A collection of awesome aliases for your bash shell
 
 alias plz="sudo !!"  # runs the last command as sudo
 
-alias oops='history -d $(history 1)'  # Remove last command from history
-
 alias vi="nano"  # Don't get along with vi, this is for you
 
 alias upgrade='sudo apt update && sudo apt upgrade -y && apt-get autoremove -y && apt-get autoclean'  # upgrade with less typing
