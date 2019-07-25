@@ -22,7 +22,7 @@ alias rrr='sudo restart now'  # restart with less typing
 
 alias uptime='uptime | cowsay'  # your cow now tells you your uptime
 
-alias make='colormake'  # makes with color - easier to read warnings and errors
+alias make='colormake'  # make with color - easier to read warnings and errors - install "colormake" first
 
 
 
