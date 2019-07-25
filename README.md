@@ -22,6 +22,10 @@ alias rrr='sudo restart now'  # restart with less typing
 
 alias uptime='uptime | cowsay'  # your cow now tells you your uptime
 
+alias make='colormake'  # makes your make, make color - easier to read
+
+
+
 A handy app to grab to fix your typos:
 
 https://github.com/nvbn/thefuck - Magnificent app which corrects your previous console command.
