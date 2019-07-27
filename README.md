@@ -19,7 +19,7 @@
 
  alias zzz='sudo shutdown now'  # put it to bed with less typing
 
- alias rrr='sudo restart now'  # restart with less typing
+ alias rrr='sudo reboot now'  # restart with less typing
 
  alias uptime='uptime | cowsay'  # your cow now tells you your uptime
 
